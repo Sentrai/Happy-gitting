@@ -1,4 +1,4 @@
-# Happy-gitting-
+# Happy-gitting
 
 Just try out the git thing and enjoy gitting!
 
@@ -9,6 +9,7 @@ Here is a cute dolphin:
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
 
+![A cute dophin](cute-dolphin,jpeg)
 
 ## A quick markdown primer:
 
